@@ -22,3 +22,4 @@ The 2-train.ipynb file contains processes of:
 3. Evaluating Models 
 4. Predicting Nuetral Tweets to Positive or Negative
 5. Using Linear SVM to predict whole dataset sentiment
+6. Generating Word Cloud
